@@ -23,9 +23,9 @@ public class setCpuScore {
 
     public static int maxScore(int[] arr) {
         int max = arr[0];
-        for (int x = 0; x < arr.length; x++) {
-            if (arr[x] > max) {
-                max = arr[x];
+        for (int i : arr) {
+            if (i > max) {
+                max = i;
             }
         }
         return max;
@@ -33,9 +33,9 @@ public class setCpuScore {
 
     public static int minScore(int[] arr) {
         int min = arr[0];
-        for (int x = 0; x < arr.length; x++) {
-            if (arr[x] < min) {
-                min = arr[x];
+        for (int i :arr) {
+            if (i < min) {
+                min = i;
             }
         }
         return min;
@@ -43,8 +43,8 @@ public class setCpuScore {
 
     public static int sumScore(int[] arr) {
         int sum = 0;
-        for (int x = 0; x < arr.length; x++) {
-            sum += arr[x];
+        for (int i :arr) {
+            sum += i;
         }
         return sum;
     }
