@@ -1,6 +1,6 @@
 package defindclass;
 
-public class defindclass {
+public class Phone {
     //定义成员变量
     String brand;
     int price;
