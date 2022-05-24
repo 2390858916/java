@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3092067-4fe6-4616-be25-417ddb745a4d" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/defindclass/gozao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defindclass/gozaoDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -322,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653272666505</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Changes">
+      <created>1653381889843</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1653381889843</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
