@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3092067-4fe6-4616-be25-417ddb745a4d" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/defindclass/thisdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defindclass/thisuse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defindclass/gozao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defindclass/gozaoDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +55,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.thisdemo">
-    <configuration name="arrayreserve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.arrayreserve" />
+  <component name="RunManager" selected="应用程序.gozaoDemo">
+    <configuration name="gozaoDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="defindclass.gozaoDemo" />
       <module name="first" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.*" />
+          <option name="PATTERN" value="defindclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.gozaoDemo" />
         <item itemvalue="应用程序.thisdemo" />
         <item itemvalue="应用程序.privateUse" />
         <item itemvalue="应用程序.phoneDemo" />
         <item itemvalue="应用程序.setCpuScore" />
-        <item itemvalue="应用程序.arrayreserve" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653220963226</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Changes">
+      <created>1653272666505</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1653272666505</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
