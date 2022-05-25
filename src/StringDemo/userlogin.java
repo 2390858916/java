@@ -15,11 +15,11 @@ public class userlogin {
             if(!name.equals(username)){
                 System.out.println("not this user");
                 count++;
-                continue;
+//                continue;
             } else if (!pwd.equals(password)) {
                 System.out.println("pwd worn");
                 count++;
-                continue;
+//                continue;
             }else{
                 System.out.println("logging");
                 break;
