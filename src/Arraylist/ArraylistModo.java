@@ -12,6 +12,7 @@ public class ArraylistModo {
         array.remove("world");
         array.remove(1);
         array.set(0,"fist");
+        System.out.println(array.get(1));
         System.out.println(array);
     }
 }
