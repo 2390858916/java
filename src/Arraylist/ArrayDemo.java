@@ -7,6 +7,7 @@ public class ArrayDemo {
         System.out.println("array" + array);
         array.add("hello");
         array.add("java");
+        array.add(1,"niubi");
         System.out.println(array);
     }
 }
