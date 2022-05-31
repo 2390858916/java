@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3092067-4fe6-4616-be25-417ddb745a4d" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/src/text06/Newphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/text06/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/text06/PhoneDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extendsDemo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extendsDemo/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extendsDemo/fu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extendsDemo/fu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extendsDemo/son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extendsDemo/son.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Demo">
+  <component name="RunManager" selected="应用程序.PhoneDemo">
     <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arraylist.ArrayDemo" />
       <module name="first" />
@@ -96,6 +96,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PhoneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="text06.PhoneDemo" />
+      <module name="first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="text06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Stringreverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringBuilderDemo.Stringreverse" />
       <module name="first" />
@@ -109,21 +122,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Studentinput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Studenttest.Studentinput" />
-      <module name="first" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Studenttest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.PhoneDemo" />
         <item itemvalue="应用程序.Demo" />
         <item itemvalue="应用程序.ArraylistModo" />
         <item itemvalue="应用程序.ArrayDemo" />
@@ -139,13 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652460328341</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Changes">
-      <created>1652596059908</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1652596059908</updated>
     </task>
     <task id="LOCAL-00009" summary="Changes">
       <created>1652600023459</created>
@@ -483,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653727238471</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Changes">
+      <created>1653791670726</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1653791670727</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
